@@ -15,7 +15,7 @@ public class StudentMain {
 	public static void main(String[] args) {
 
 		Student student1 = new Student();
-		student1.setName("Raju");
+		student1.setName("Raju M");
 		student1.setStandard("9th");
 
 		Student student2 = new Student();
